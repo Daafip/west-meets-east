@@ -1,10 +1,6 @@
-# Analysis for the boot west meets east
+# Analysis for the book west meets east
 
-wat willen we: 
-- 3 jaar gemiddelde, of 5 jaar voor 1999-2001 & 2019-2021
-- aantal droge dagen per jaar &  iest van regenval regenval
-- china duitsland opsplitsen?
-- temperatuur boven 25 
+This is the code to analyse data from the [NOAA NCEI](https://www.ncei.noaa.gov/) for the book east meets west:
 
-    > toepassing: enertgie, voertsel, water , 
+Daily Precipitation data is downloaded in [`Download data.ipynb`](https://github.com/Daafip/west-meets-east/blob/main/Download%20data.ipynb) from [www.ncei.noaa.gov](https://www.ncei.noaa.gov/data/cmorph-high-resolution-global-precipitation-estimates/). This takes quite some time and downloads all the specified years: in this case 1998-2022. Note a seperate path might be required with little to no spacing: _just how wget works `-\_(ツ)_/- ` _
 
